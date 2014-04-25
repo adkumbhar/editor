@@ -7,6 +7,7 @@ import java.io.*;
 
 
 /**
+ * This is Open Source Project Any One can copy this, modify this project
    The TextEditor class is a simple text editor.
 */
 
